@@ -1,4 +1,4 @@
-# ecommerce-website
+# Ecommerce-website
 This is a basic e-commerce website that allows customers to browse and purchase products online. It provides a simple and user-friendly interface for both customers and administrators.
 
 ## Features
